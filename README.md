@@ -1,9 +1,6 @@
 # Thread-Zigbee
-This repo contains an introduction to Thread and Zigbee
 
-# Thread and ZigBee Training
-
-## Day 1
+## This repo contains an introduction to Thread and Zigbee
 
 ### Introduction to Thread
 
