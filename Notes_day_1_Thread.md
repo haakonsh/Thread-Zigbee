@@ -1,6 +1,3 @@
-# Thread-Zigbee
-This repo contains an introduction to Thread and Zigbee
-
 # Thread and ZigBee Training
 
 ## Day 1
@@ -12,9 +9,11 @@ Links to [Thread Group](http://www.threadgroup.org) and [OpenThread](https://ope
 The main purpose of Thread is to extend the range of short range wireless devices and to insure simple access to the internet through IPv6 addressable nodes, in a low power fashion.
 Thread is a routed mesh with built in features to prevent any single point of failure. Its innate self-healing properties makes Thread a very robust and reliable meshed network. 
 
-OpenThread is an open source implementation of the Thread specification
-
 The minimum memory requirement for the OpenThread stack is 250kB Flash and 30kB Ram.
+
+
+-Routed Mesh
+-No single point of failure. The network has a built in intelligence to fix networks when one of the nodes dies.
 
 -Sleepy nodes allows for Low Power. Not required to check-in on a periodic basis. Parent nodes holds messages for sleepy devices.
 "Available" devices: Nest and Legrand. Nest uses Thread OpenLeaf. Own application layer, planned to be open source. Waiting for this.
@@ -156,7 +155,6 @@ Open Thread:
 
 
 Configuration for hands on is found on infocenter.
-
 
 
 
